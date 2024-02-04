@@ -1,7 +1,7 @@
 
 //This is a test project to see if it connect to github
 
-public class gitHubTest {
+public class Test {
 
 	public static void main(String[] args) {
 		
